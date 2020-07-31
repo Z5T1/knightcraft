@@ -61,7 +61,7 @@ New lots are marked on the map and tracked by street address.
 ### St. Mary's Street
 | Lot | Owner        |
 |-----|--------------|
-| 4   | M3m3nt0_M0ri |
+| 4   | DylanGTech   |
 
 ### Hen House Street
 
