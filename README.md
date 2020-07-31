@@ -17,7 +17,7 @@ New lots are marked on the map and tracked by street address.
 | Lot | Owner        |
 |-----|--------------|
 | 7   | Ceres1       |
-| 9   | For Sale     |
+| 9   | DylanGTech   |
 | 11  | Ryan61406    |
 | 15  | For Sale     |
 | 17  | For Sale     |
