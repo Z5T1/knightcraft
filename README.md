@@ -6,7 +6,7 @@ All property lines are recorded as the corners of their rectangles.
 Property Line Map
 -----------------
 
-![Property Lines](Property Lines.png)
+![Property Lines](/Property Lines.png)
 
 Lots by Street Address
 ----------------------
