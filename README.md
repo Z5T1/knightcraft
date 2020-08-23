@@ -19,7 +19,7 @@ New lots are marked on the map and tracked by street address.
 | 7   | Ceres1       |
 | 9   | DylanGTech   |
 | 11  | Ryan61406    |
-| 15  | For Sale     |
+| 15  | M3m3nt0_M0ri |
 | 17  | For Sale     |
 | 19  | For Sale     |
 | 20  | For Sale     |
@@ -29,7 +29,7 @@ New lots are marked on the map and tracked by street address.
 ### Testificateville Road
 | Lot | Owner        |
 |-----|--------------|
-| 2   | For Sale     |
+| 2   | M3m3nt0_M0ri |
 | 3   | For Sale     |
 | 4   | For Sale     |
 | 5   | For Sale     |
