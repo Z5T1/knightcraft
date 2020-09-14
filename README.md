@@ -30,7 +30,7 @@ New lots are marked on the map and tracked by street address.
 | Lot | Owner        |
 |-----|--------------|
 | 2   | M3m3nt0_M0ri |
-| 3   | For Sale     |
+| 3   | Ceres1       |
 | 4   | For Sale     |
 | 5   | For Sale     |
 
